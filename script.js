@@ -27,7 +27,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _fancyapps_ui_dist_fancybox_fancybox_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @fancyapps/ui/dist/fancybox/fancybox.css */ \"./node_modules/@fancyapps/ui/dist/fancybox/fancybox.css\");\n/* harmony import */ var swiper_swiper_bundle_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! swiper/swiper-bundle.css */ \"./node_modules/swiper/swiper-bundle.css\");\n/* harmony import */ var _styles_styles_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles/styles.scss */ \"./src/styles/styles.scss\");\n/* harmony import */ var vevet__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! vevet */ \"./node_modules/vevet/build/es/components/loading/Preloader.js\");\n/* harmony import */ var vevet__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! vevet */ \"./node_modules/vevet/build/es/components/cursor/CustomCursor.js\");\n/* harmony import */ var _scripts_main__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./scripts/main */ \"./src/scripts/main.js\");\n/* harmony import */ var _scripts_config_vevet__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./scripts/config/vevet */ \"./src/scripts/config/vevet.js\");\n\n\n\n\n\n\n\n// document.addEventListener('DOMContentLoaded', () => {\n//   init();\n// });\n\n// eslint-disable-next-line no-new\nnew vevet__WEBPACK_IMPORTED_MODULE_5__.Preloader({\n  container: '#v-preloader'\n});\nif (!_scripts_config_vevet__WEBPACK_IMPORTED_MODULE_4__[\"default\"].isMobile) {\n  // eslint-disable-next-line no-new\n  new vevet__WEBPACK_IMPORTED_MODULE_6__.CustomCursor({\n    container: 'body',\n    render: {\n      lerpToFixed: 2\n    },\n    hideNativeCursor: true\n  });\n}\n_scripts_config_vevet__WEBPACK_IMPORTED_MODULE_4__[\"default\"].pageLoad.onLoaded(function () {\n  (0,_scripts_main__WEBPACK_IMPORTED_MODULE_3__[\"default\"])();\n});\n\n//# sourceURL=webpack://belonq/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _assets_banner_1_png__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./assets/banner-1.png */ \"./src/assets/banner-1.png\");\n/* harmony import */ var _assets_layer_about_1_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./assets/layer-about-1.png */ \"./src/assets/layer-about-1.png\");\n/* harmony import */ var _assets_layer_section_footer_1_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./assets/layer-section-footer-1.png */ \"./src/assets/layer-section-footer-1.png\");\n/* harmony import */ var _assets_banner_2_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/banner-2.png */ \"./src/assets/banner-2.png\");\n/* harmony import */ var _assets_layer_about_2_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/layer-about-2.png */ \"./src/assets/layer-about-2.png\");\n/* harmony import */ var _assets_layer_section_footer_2_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/layer-section-footer-2.png */ \"./src/assets/layer-section-footer-2.png\");\n/* harmony import */ var _assets_banner_3_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/banner-3.png */ \"./src/assets/banner-3.png\");\n/* harmony import */ var _assets_layer_about_3_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/layer-about-3.png */ \"./src/assets/layer-about-3.png\");\n/* harmony import */ var _assets_layer_section_footer_3_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./assets/layer-section-footer-3.png */ \"./src/assets/layer-section-footer-3.png\");\n/* harmony import */ var _assets_banner_4_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./assets/banner-4.png */ \"./src/assets/banner-4.png\");\n/* harmony import */ var _assets_layer_about_4_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./assets/layer-about-4.png */ \"./src/assets/layer-about-4.png\");\n/* harmony import */ var _assets_layer_section_footer_4_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./assets/layer-section-footer-4.png */ \"./src/assets/layer-section-footer-4.png\");\n/* harmony import */ var _assets_banner_5_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./assets/banner-5.png */ \"./src/assets/banner-5.png\");\n/* harmony import */ var _fancyapps_ui_dist_fancybox_fancybox_css__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @fancyapps/ui/dist/fancybox/fancybox.css */ \"./node_modules/@fancyapps/ui/dist/fancybox/fancybox.css\");\n/* harmony import */ var swiper_swiper_bundle_css__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! swiper/swiper-bundle.css */ \"./node_modules/swiper/swiper-bundle.css\");\n/* harmony import */ var _styles_styles_scss__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./styles/styles.scss */ \"./src/styles/styles.scss\");\n/* harmony import */ var vevet__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! vevet */ \"./node_modules/vevet/build/es/components/loading/Preloader.js\");\n/* harmony import */ var vevet__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! vevet */ \"./node_modules/vevet/build/es/components/cursor/CustomCursor.js\");\n/* harmony import */ var _scripts_main__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./scripts/main */ \"./src/scripts/main.js\");\n/* harmony import */ var _scripts_config_vevet__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./scripts/config/vevet */ \"./src/scripts/config/vevet.js\");\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// document.addEventListener('DOMContentLoaded', () => {\n//   init();\n// });\n\n// eslint-disable-next-line no-new\nnew vevet__WEBPACK_IMPORTED_MODULE_18__.Preloader({\n  container: '#v-preloader'\n});\nif (!_scripts_config_vevet__WEBPACK_IMPORTED_MODULE_17__[\"default\"].isMobile) {\n  // eslint-disable-next-line no-new\n  new vevet__WEBPACK_IMPORTED_MODULE_19__.CustomCursor({\n    container: 'body',\n    render: {\n      lerpToFixed: 2\n    },\n    hideNativeCursor: true\n  });\n}\n_scripts_config_vevet__WEBPACK_IMPORTED_MODULE_17__[\"default\"].pageLoad.onLoaded(function () {\n  (0,_scripts_main__WEBPACK_IMPORTED_MODULE_16__[\"default\"])();\n});\n\n//# sourceURL=webpack://belonq/./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/scripts/changeTheme.js":
+/*!************************************!*\
+  !*** ./src/scripts/changeTheme.js ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _assets_banner_1_png__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../assets/banner-1.png */ \"./src/assets/banner-1.png\");\n/* harmony import */ var _assets_layer_about_1_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/layer-about-1.png */ \"./src/assets/layer-about-1.png\");\n/* harmony import */ var _assets_layer_section_footer_1_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../assets/layer-section-footer-1.png */ \"./src/assets/layer-section-footer-1.png\");\n/* harmony import */ var _assets_banner_2_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../assets/banner-2.png */ \"./src/assets/banner-2.png\");\n/* harmony import */ var _assets_layer_about_2_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../assets/layer-about-2.png */ \"./src/assets/layer-about-2.png\");\n/* harmony import */ var _assets_layer_section_footer_2_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../assets/layer-section-footer-2.png */ \"./src/assets/layer-section-footer-2.png\");\n/* harmony import */ var _assets_banner_3_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../assets/banner-3.png */ \"./src/assets/banner-3.png\");\n/* harmony import */ var _assets_layer_about_3_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../assets/layer-about-3.png */ \"./src/assets/layer-about-3.png\");\n/* harmony import */ var _assets_layer_section_footer_3_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../assets/layer-section-footer-3.png */ \"./src/assets/layer-section-footer-3.png\");\n/* harmony import */ var _assets_banner_4_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../assets/banner-4.png */ \"./src/assets/banner-4.png\");\n/* harmony import */ var _assets_layer_about_4_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../assets/layer-about-4.png */ \"./src/assets/layer-about-4.png\");\n/* harmony import */ var _assets_layer_section_footer_4_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../assets/layer-section-footer-4.png */ \"./src/assets/layer-section-footer-4.png\");\n/* harmony import */ var _assets_banner_5_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../assets/banner-5.png */ \"./src/assets/banner-5.png\");\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar changeTheme = function changeTheme() {\n  var random = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 1;\n  var themes = {\n    1: {\n      number: 1,\n      banner: _assets_banner_1_png__WEBPACK_IMPORTED_MODULE_0__,\n      about: _assets_layer_about_1_png__WEBPACK_IMPORTED_MODULE_1__,\n      footer: _assets_layer_section_footer_1_png__WEBPACK_IMPORTED_MODULE_2__\n    },\n    2: {\n      number: 2,\n      banner: _assets_banner_2_png__WEBPACK_IMPORTED_MODULE_3__,\n      about: _assets_layer_about_2_png__WEBPACK_IMPORTED_MODULE_4__,\n      footer: _assets_layer_section_footer_1_png__WEBPACK_IMPORTED_MODULE_2__\n    },\n    3: {\n      number: 3,\n      banner: _assets_banner_3_png__WEBPACK_IMPORTED_MODULE_6__,\n      about: _assets_layer_about_3_png__WEBPACK_IMPORTED_MODULE_7__,\n      footer: _assets_layer_section_footer_2_png__WEBPACK_IMPORTED_MODULE_5__\n    },\n    4: {\n      number: 4,\n      banner: _assets_banner_4_png__WEBPACK_IMPORTED_MODULE_9__,\n      about: _assets_layer_about_4_png__WEBPACK_IMPORTED_MODULE_10__,\n      footer: _assets_layer_section_footer_3_png__WEBPACK_IMPORTED_MODULE_8__\n    },\n    5: {\n      number: 5,\n      banner: _assets_banner_5_png__WEBPACK_IMPORTED_MODULE_12__,\n      about: _assets_layer_about_1_png__WEBPACK_IMPORTED_MODULE_1__,\n      footer: _assets_layer_section_footer_4_png__WEBPACK_IMPORTED_MODULE_11__\n    }\n  };\n  var themeContainer = document.querySelectorAll('.background__image, .section-info__bg, .section-additional__bg');\n  if (themeContainer.length === 0) {\n    return;\n  }\n  var srcArr = [];\n  themeContainer.forEach(function (container) {\n    var image = container.querySelector('img');\n    if (!image) {\n      return;\n    }\n\n    // console.log(container.classList[0]);\n    switch (container.classList[0]) {\n      case 'section-info__bg':\n        image.src = themes[random].about;\n        break;\n      case 'section-additional__bg':\n        image.src = themes[random].footer;\n        // image.src = `./assets/layer-section-footer-${random}.png`;\n        break;\n      case 'background__image':\n        image.src = themes[random].banner;\n        // image.src = `./assets/banner-${random}.png`;\n        break;\n      default:\n        break;\n    }\n    srcArr.push(image.src);\n  });\n\n  // // console.dir(themeContainer);\n  // console.log(srcArr);\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (changeTheme);\n\n//# sourceURL=webpack://belonq/./src/scripts/changeTheme.js?");
 
 /***/ }),
 
@@ -49,7 +60,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar initCursorHover = function initCursorHover() {\n  var actionObjects = document.querySelectorAll('a, button');\n  var cursor = document.querySelector('.v-custom-cursor');\n  if (actionObjects.length === 0 || !cursor) {\n    return;\n  }\n  var cursorInner = cursor.querySelector('.v-custom-cursor__inner');\n  actionObjects.forEach(function (actionObject) {\n    console.log(actionObject);\n    actionObject.addEventListener('mouseenter', function () {\n      cursor.classList.add('hover');\n      cursorInner.classList.add('hover');\n    });\n    actionObject.addEventListener('mouseleave', function () {\n      cursor.classList.remove('hover');\n      cursorInner.classList.remove('hover');\n    });\n  });\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (initCursorHover);\n\n//# sourceURL=webpack://belonq/./src/scripts/cursorSettings.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar initCursorHover = function initCursorHover() {\n  var actionObjects = document.querySelectorAll('a, button');\n  var cursor = document.querySelector('.v-custom-cursor');\n  if (actionObjects.length === 0 || !cursor) {\n    return;\n  }\n  var cursorInner = cursor.querySelector('.v-custom-cursor__inner');\n  actionObjects.forEach(function (actionObject) {\n    // console.log(actionObject);\n    actionObject.addEventListener('mouseenter', function () {\n      cursor.classList.add('hover');\n      cursorInner.classList.add('hover');\n    });\n    actionObject.addEventListener('mouseleave', function () {\n      cursor.classList.remove('hover');\n      cursorInner.classList.remove('hover');\n    });\n  });\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (initCursorHover);\n\n//# sourceURL=webpack://belonq/./src/scripts/cursorSettings.js?");
 
 /***/ }),
 
@@ -93,7 +104,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _sliders__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sliders */ \"./src/scripts/sliders.js\");\n/* harmony import */ var _scrollbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./scrollbar */ \"./src/scripts/scrollbar.js\");\n/* harmony import */ var _fancybox__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./fancybox */ \"./src/scripts/fancybox.js\");\n/* harmony import */ var _headingAnimtaion__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./headingAnimtaion */ \"./src/scripts/headingAnimtaion.js\");\n/* harmony import */ var _footerItemsAnimation__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./footerItemsAnimation */ \"./src/scripts/footerItemsAnimation.js\");\n/* harmony import */ var _three_Sketch__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./three/Sketch */ \"./src/scripts/three/Sketch.js\");\n/* harmony import */ var _config_vevet__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./config/vevet */ \"./src/scripts/config/vevet.js\");\n/* harmony import */ var _cursorSettings__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./cursorSettings */ \"./src/scripts/cursorSettings.js\");\n\n\n\n\n\n\n\n\nvar init = function init() {\n  if (!_config_vevet__WEBPACK_IMPORTED_MODULE_6__[\"default\"].isMobile) {\n    // eslint-disable-next-line no-new\n    new _three_Sketch__WEBPACK_IMPORTED_MODULE_5__[\"default\"]();\n    (0,_cursorSettings__WEBPACK_IMPORTED_MODULE_7__[\"default\"])();\n  }\n  (0,_scrollbar__WEBPACK_IMPORTED_MODULE_1__[\"default\"])();\n  (0,_sliders__WEBPACK_IMPORTED_MODULE_0__[\"default\"])();\n  (0,_fancybox__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n  (0,_footerItemsAnimation__WEBPACK_IMPORTED_MODULE_4__[\"default\"])();\n  var headingTimeline = (0,_headingAnimtaion__WEBPACK_IMPORTED_MODULE_3__[\"default\"])();\n  headingTimeline.play();\n  var additionalElements = document.querySelectorAll('.section-main__img, .section-subtitle, .section-info, .section-additional');\n  var additionalElementsTimeline = (0,_headingAnimtaion__WEBPACK_IMPORTED_MODULE_3__.initAdditionalElementsTimeline)(additionalElements);\n  headingTimeline.addCallback('end', function () {\n    additionalElementsTimeline.play();\n  });\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (init);\n\n//# sourceURL=webpack://belonq/./src/scripts/main.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _sliders__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./sliders */ \"./src/scripts/sliders.js\");\n/* harmony import */ var _scrollbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./scrollbar */ \"./src/scripts/scrollbar.js\");\n/* harmony import */ var _fancybox__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./fancybox */ \"./src/scripts/fancybox.js\");\n/* harmony import */ var _headingAnimtaion__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./headingAnimtaion */ \"./src/scripts/headingAnimtaion.js\");\n/* harmony import */ var _footerItemsAnimation__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./footerItemsAnimation */ \"./src/scripts/footerItemsAnimation.js\");\n/* harmony import */ var _three_Sketch__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./three/Sketch */ \"./src/scripts/three/Sketch.js\");\n/* harmony import */ var _config_vevet__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./config/vevet */ \"./src/scripts/config/vevet.js\");\n/* harmony import */ var _cursorSettings__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./cursorSettings */ \"./src/scripts/cursorSettings.js\");\n/* harmony import */ var _changeTheme__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./changeTheme */ \"./src/scripts/changeTheme.js\");\n\n\n\n\n\n\n\n\n\nvar randomInteger = function randomInteger(min, max) {\n  // случайное число от min до (max+1)\n  var rand = min + Math.random() * (max + 1 - min);\n  return Math.floor(rand);\n};\nvar init = function init() {\n  if (!window.sessionStorage.theme) {\n    window.sessionStorage.theme = randomInteger(1, 5);\n  }\n  (0,_changeTheme__WEBPACK_IMPORTED_MODULE_8__[\"default\"])(window.sessionStorage.theme);\n  if (!_config_vevet__WEBPACK_IMPORTED_MODULE_6__[\"default\"].isMobile) {\n    // eslint-disable-next-line no-new\n    new _three_Sketch__WEBPACK_IMPORTED_MODULE_5__[\"default\"]();\n    (0,_cursorSettings__WEBPACK_IMPORTED_MODULE_7__[\"default\"])();\n  }\n  (0,_scrollbar__WEBPACK_IMPORTED_MODULE_1__[\"default\"])();\n  (0,_sliders__WEBPACK_IMPORTED_MODULE_0__[\"default\"])();\n  (0,_fancybox__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n  (0,_footerItemsAnimation__WEBPACK_IMPORTED_MODULE_4__[\"default\"])();\n  var headingTimeline = (0,_headingAnimtaion__WEBPACK_IMPORTED_MODULE_3__[\"default\"])();\n  headingTimeline.play();\n  var additionalElements = document.querySelectorAll('.section-main__img, .section-subtitle, .section-info, .section-additional');\n  var additionalElementsTimeline = (0,_headingAnimtaion__WEBPACK_IMPORTED_MODULE_3__.initAdditionalElementsTimeline)(additionalElements);\n  headingTimeline.addCallback('end', function () {\n    additionalElementsTimeline.play();\n  });\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (init);\n\n//# sourceURL=webpack://belonq/./src/scripts/main.js?");
 
 /***/ }),
 
@@ -1134,6 +1145,149 @@ eval("module.exports = \"uniform sampler2D uTexture;\\r\\nuniform float uAlpha;\
 /***/ ((module) => {
 
 eval("module.exports = \"uniform sampler2D uTexture;\\r\\nuniform vec2 uOffset;\\r\\nuniform vec2 u_mouse;\\r\\nuniform float u_time;\\r\\nvarying vec2 vUv;\\r\\n\\r\\n#define PI 3.14\\r\\n\\r\\nvec3 deformationCurve(vec3 position, vec2 uv, vec2 offset) {\\r\\n   position.y = position.y + (sin(uv.x * PI) * offset.y);\\r\\n   return position;\\r\\n}\\r\\n\\r\\nvoid main() {\\r\\n   vUv = uv;\\r\\n   float noise = 1. - sin(4. * uv.x + u_mouse.x * 90.) / 30.;\\r\\n   vec3 newPosition = deformationCurve(position, uv , uOffset + noise * 0.02 * sin(u_time));\\r\\n   gl_Position = projectionMatrix * modelViewMatrix * vec4( newPosition, 1.0 );\\r\\n}\"\n\n//# sourceURL=webpack://belonq/./src/glsl/vertex.glsl?");
+
+/***/ }),
+
+/***/ "./src/assets/banner-1.png":
+/*!*********************************!*\
+  !*** ./src/assets/banner-1.png ***!
+  \*********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//banner-1.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/banner-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/banner-2.png":
+/*!*********************************!*\
+  !*** ./src/assets/banner-2.png ***!
+  \*********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//banner-2.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/banner-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/banner-3.png":
+/*!*********************************!*\
+  !*** ./src/assets/banner-3.png ***!
+  \*********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//banner-3.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/banner-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/banner-4.png":
+/*!*********************************!*\
+  !*** ./src/assets/banner-4.png ***!
+  \*********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//banner-4.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/banner-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/banner-5.png":
+/*!*********************************!*\
+  !*** ./src/assets/banner-5.png ***!
+  \*********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//banner-5.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/banner-5.png?");
+
+/***/ }),
+
+/***/ "./src/assets/layer-about-1.png":
+/*!**************************************!*\
+  !*** ./src/assets/layer-about-1.png ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//layer-about-1.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/layer-about-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/layer-about-2.png":
+/*!**************************************!*\
+  !*** ./src/assets/layer-about-2.png ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//layer-about-2.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/layer-about-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/layer-about-3.png":
+/*!**************************************!*\
+  !*** ./src/assets/layer-about-3.png ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//layer-about-3.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/layer-about-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/layer-about-4.png":
+/*!**************************************!*\
+  !*** ./src/assets/layer-about-4.png ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//layer-about-4.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/layer-about-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/layer-section-footer-1.png":
+/*!***********************************************!*\
+  !*** ./src/assets/layer-section-footer-1.png ***!
+  \***********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//layer-section-footer-1.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/layer-section-footer-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/layer-section-footer-2.png":
+/*!***********************************************!*\
+  !*** ./src/assets/layer-section-footer-2.png ***!
+  \***********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//layer-section-footer-2.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/layer-section-footer-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/layer-section-footer-3.png":
+/*!***********************************************!*\
+  !*** ./src/assets/layer-section-footer-3.png ***!
+  \***********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//layer-section-footer-3.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/layer-section-footer-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/layer-section-footer-4.png":
+/*!***********************************************!*\
+  !*** ./src/assets/layer-section-footer-4.png ***!
+  \***********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"./assets//layer-section-footer-4.png\";\n\n//# sourceURL=webpack://belonq/./src/assets/layer-section-footer-4.png?");
 
 /***/ }),
 
@@ -2326,6 +2480,29 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 			if (!module.children) module.children = [];
 /******/ 			return module;
 /******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript)
+/******/ 				scriptUrl = document.currentScript.src;
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) {
+/******/ 					var i = scripts.length - 1;
+/******/ 					while (i > -1 && !scriptUrl) scriptUrl = scripts[i--].src;
+/******/ 				}
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
 /******/ 	})();
 /******/ 	
 /************************************************************************/
