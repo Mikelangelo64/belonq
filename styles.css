@@ -2118,7 +2118,11 @@ html:not(.v-mobile) .gallery-slider-next:focus-visible svg .lines {
   flex: 1 0 auto;
   display: flex;
   align-items: flex-end;
-  overflow: hidden;
+}
+@media (max-width: 899px) {
+  .content__section {
+    overflow: hidden;
+  }
 }
 .content__footer {
   z-index: 2;
