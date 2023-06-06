@@ -1364,7 +1364,8 @@ body {
   overflow-x: hidden;
   line-height: 126%;
 }
-html.lock,
+html:not(.v-loaded), html.lock,
+body:not(.v-loaded),
 body.lock {
   overflow: hidden;
 }
